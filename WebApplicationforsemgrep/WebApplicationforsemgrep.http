@@ -1,0 +1,6 @@
+@WebApplicationforsemgrep_HostAddress = http://localhost:5283
+
+GET {{WebApplicationforsemgrep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
